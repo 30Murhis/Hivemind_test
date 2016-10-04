@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 902231ea0c2c83b468fc9e2158d661f9
+timeCreated: 1475261484
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: securityguy_walkright_0
+    21300002: securityguy_walkright_1
+    21300004: securityguy_walkright_2
+    21300006: securityguy_walkright_3
+    21300008: securityguy_walkright_4
+    21300010: securityguy_walkright_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: securityguy_walkright_0
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 74
+        width: 340
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.471786, y: 75.04669}
+        - {x: -56.471786, y: -129.95331}
+        - {x: -38.471786, y: -146.95331}
+        - {x: 57.528214, y: -146.95331}
+        - {x: 57.528214, y: 71.04669}
+        - {x: 46.528214, y: 135.04669}
+        - {x: 25.528214, y: 148.04669}
+        - {x: -11.4717865, y: 148.04669}
+        - {x: -28.471786, y: 140.04669}
+    - name: securityguy_walkright_1
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 74
+        width: 436
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.745148, y: 148.54669}
+        - {x: -30.254852, y: 148.54669}
+        - {x: -70.25485, y: 71.54669}
+        - {x: -72.25485, y: 58.54669}
+        - {x: -72.25485, y: -12.453308}
+        - {x: -55.254852, y: -42.45331}
+        - {x: -37.254852, y: -44.45331}
+        - {x: -49.254852, y: -135.45331}
+        - {x: -39.254852, y: -145.45331}
+        - {x: -34.254852, y: -147.45331}
+        - {x: 20.745148, y: -147.45331}
+        - {x: 72.74515, y: -56.45331}
+        - {x: 72.74515, y: 42.54669}
+        - {x: 40.745148, y: 117.54669}
+    - name: securityguy_walkright_2
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 65
+        width: 543
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.903687, y: 149.56128}
+        - {x: -46.903687, y: 144.56128}
+        - {x: -89.90369, y: 35.56128}
+        - {x: -89.90369, y: -14.438721}
+        - {x: -80.90369, y: -30.43872}
+        - {x: -65.90369, y: -38.43872}
+        - {x: -54.903687, y: -33.43872}
+        - {x: -49.903687, y: -22.43872}
+        - {x: -48.903687, y: -18.43872}
+        - {x: -34.903687, y: -49.43872}
+        - {x: -64.90369, y: -96.43872}
+        - {x: -78.90369, y: -123.43872}
+        - {x: -72.90369, y: -138.43872}
+        - {x: -48.903687, y: -148.43872}
+        - {x: -38.903687, y: -148.43872}
+        - {x: -29.903687, y: -147.43872}
+        - {x: -24.903687, y: -143.43872}
+        - {x: -26.903687, y: -130.43872}
+        - {x: 33.096313, y: -148.43872}
+        - {x: 88.09631, y: -148.43872}
+        - {x: 91.09631, y: -146.43872}
+        - {x: 91.09631, y: 54.56128}
+        - {x: 59.096313, y: 149.56128}
+    - name: securityguy_walkright_3
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 59
+        width: 391
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.003906, y: 150.57101}
+        - {x: -29.996094, y: 150.57101}
+        - {x: -64.99609, y: 118.571014}
+        - {x: -64.99609, y: -137.42899}
+        - {x: -24.996094, y: -127.428986}
+        - {x: -17.996094, y: -116.428986}
+        - {x: -0.99609375, y: -144.42899}
+        - {x: 4.0039062, y: -149.42899}
+        - {x: 49.003906, y: -149.42899}
+        - {x: 55.003906, y: -138.42899}
+        - {x: 66.00391, y: -109.428986}
+        - {x: 66.00391, y: 59.571014}
+    - name: securityguy_walkright_4
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 71
+        width: 334
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.613892, y: 149.05156}
+        - {x: -46.38611, y: 149.05156}
+        - {x: -55.38611, y: 141.05156}
+        - {x: -55.38611, y: -147.94844}
+        - {x: 43.61389, y: -147.94844}
+        - {x: 46.61389, y: -146.94844}
+        - {x: 55.61389, y: -128.94844}
+        - {x: 55.61389, y: 60.05156}
+    - name: securityguy_walkright_5
+      rect:
+        serializedVersion: 2
+        x: 5423
+        y: 62
+        width: 521
+        height: 898
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.1254883, y: 150.06615}
+        - {x: -48.12549, y: 150.06615}
+        - {x: -68.12549, y: 122.06615}
+        - {x: -66.12549, y: -65.93385}
+        - {x: -85.12549, y: -108.93385}
+        - {x: -85.12549, y: -142.93385}
+        - {x: -69.12549, y: -148.93385}
+        - {x: 57.87451, y: -148.93385}
+        - {x: 87.87451, y: -142.93385}
+        - {x: 87.87451, y: -100.93385}
+        - {x: 28.874512, y: 120.06615}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
